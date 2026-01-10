@@ -7,3 +7,7 @@
 ```csharp
 github.com/joegapes
 dc   $  @obviouslyjoe
+
+![Unity](https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=FF0000)
+![Blender](https://img.shields.io/badge/Blender-202020?style=for-the-badge&logo=blender&logoColor=FF0000)
+![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=c-sharp&logoColor=FF0000)
