@@ -1,11 +1,19 @@
 <div align="left">
-  <img src="https://cdn.simpleicons.org/unity/000000" width="90" align="left"/>
+  <img src="https://cdn.simpleicons.org/unity/ffffff" width="72" align="left"/>
 </div>
 
 # Lethal Ape Redux
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&size=22&duration=5200&pause=700&color=569CD6&background=00000000&width=900&lines=%24+cd+Projects%2FLethalApeRedux;%24+echo+%223D+Map+Design+%7C+Unity+%26+Blender%22;%24+echo+%22VR+Cave+Horror+%7C+Performance+First%22;%24+echo+%22Scaling+World+Systems+For+Standalone+VR%22;%24+echo+%22Goal%3A+Ascend+Map+Design+%26+Master+C%23%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&size=22&duration=5200&pause=800&color=569CD6&background=00000000&width=800&lines=Developer+%40+LAR+10K%2B+Reviews;Joe+was+here;no+larping+allowed)](https://git.io/typing-svg)
 
+<br/>
+
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)]()
+[![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)]()
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)]()
+[![Meta VR](https://img.shields.io/badge/Meta-VR-0467DF?style=flat)]()
+[![Installs](https://img.shields.io/badge/200K%2B-Installs-darkgreen?style=flat)]()
+[![Reviews](https://img.shields.io/badge/10K%2B-Reviews-blue?style=flat)]()
 
 ---
 
@@ -30,8 +38,8 @@ tools : Blender
 - Live production environment  
 
 Role:
-- Full environment design
-- 3D Artist
+- Full environment design  
+- 3D Artist  
 
 ---
 
@@ -42,13 +50,12 @@ public class Joe : EnvironmentDesigner
 {
     public string Engine = "Unity";
     public string Modeling = "Blender";
-    public string Specialty = "Low Poly Models";
 
     public void BuildEnvironment()
     {
-        OpenBlenderboii();
         DesignMaps();
-        Befamoustrustbro();
-        ReverseEnginerringlarping();
+        DISABLELARPS();
+        Hackthedatabase();
+        Respectbro();
     }
 }
