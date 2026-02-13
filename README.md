@@ -19,19 +19,19 @@
 
 ## Developer
 ``
-github : github.com/joegapes
+Github : github.com/joegapes
 ``
 ``
-discord : @obviouslyjoe
+DC : @obviouslyjoe
 ``
 ``
-focus : Environment / Map Design
+Focus : Environment / Map Design
 ``
 ``
-engine : Unity
+Engine : Unity
 ``
 ``
-tools : Blender
+Tools : Blender
 ``
 
 ---
