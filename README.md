@@ -18,13 +18,13 @@
 ---
 
 ## Developer
-
+``
 github : github.com/joegapes
 discord : @obviouslyjoe
 focus : Environment / Map Design
 engine : Unity
 tools : Blender
-
+``
 
 ---
 
