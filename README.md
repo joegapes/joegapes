@@ -40,8 +40,8 @@ Tools : Blender
 
 ### Lethal Ape Redux (Meta VR | Sorebones)
 
-- 200,000+ installs  
-- 10,000+ reviews  
+- 260,000+ installs  
+- 11,000+ reviews  
 - Standalone VR optimized  
 - Live production environment  
 
