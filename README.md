@@ -4,7 +4,7 @@
 
 # Lethal Ape Redux
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&size=22&duration=5200&pause=800&color=569CD6&background=00000000&width=800&lines=Developer+%40+LAR+10K%2B+Reviews;Joe+was+here;no+larping+allowed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&size=22&duration=5200&pause=800&color=569CD6&background=00000000&width=800&lines=Developer+%40+LAR+12K%2B+Reviews;Joe+was+here;no+larping+allowed)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,34 +36,15 @@ Tools : Blender
 
 ---
 
-## Portfolio
-
 ### Lethal Ape Redux (Meta VR | Sorebones)
 
 - 260,000+ installs  
-- 11,000+ reviews  
-- Standalone VR optimized  
+- 12,000+ reviews  
 - Live production environment  
 
-Role:
-- Full environment design  
+
+- Experimental
+- environment design  
 - 3D Artist  
 
 ---
-
-## Technical Profile
-
-```csharp
-public class Joe : EnvironmentDesigner
-{
-    public string Engine = "Unity";
-    public string Modeling = "Blender";
-
-    public void BuildEnvironment()
-    {
-        DesignMaps();
-        DISABLELARPS();
-        Hackthedatabase();
-        Respectbro();
-    }
-}
