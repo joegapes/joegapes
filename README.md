@@ -8,4 +8,4 @@ Unity developer & Experimental map design.
   no info attached at the moment.
 
 - Metacraft
-  Minecraft in standalone VR using the Another-Axiom Locomotion @ unity 6.5
+  Minecraft in standalone VR using the Another-Axiom Locomotion
