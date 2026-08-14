@@ -1,3 +1,3 @@
-# usejoe @ discord | joe
+# usejoe @ discord
 
-the one and only true joe
+the one and only true joe.
