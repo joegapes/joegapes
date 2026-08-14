@@ -1,3 +1,3 @@
-# Obviouslyjoe | Joe
+# usejoe @ discord | joe
 
-Unity developer & Experimental map design.
+the one and only true joe
